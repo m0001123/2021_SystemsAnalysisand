@@ -56,7 +56,8 @@ alert(s)
 | 1     |   2    |   3 |
 ***
 ## PERT_CPM
-![PERT_CPM](https://imgur.com/a/xoAGLAF)
+![PERT_CPM](https://i.imgur.com/3ozEqhS.jpg)
 ***
 ## 甘特圖
+![gantt](https://i.imgur.com/nwMsaV9.png)
 
